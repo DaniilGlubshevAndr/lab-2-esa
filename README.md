@@ -1,1 +1,1 @@
-# lab-2-esa
+# Practical Work 2 - Application using Spring Framework
